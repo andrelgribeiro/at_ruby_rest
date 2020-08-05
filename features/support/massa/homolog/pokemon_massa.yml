@@ -1,0 +1,8 @@
+cenario1:
+  effect: "Pokémon mit dieser Fähigkeit kopieren einen zufälligen Gegner. Der Effekt ist identisch mit transform."
+  short_effect: "Verwandelt sich beim Betreten des Kampfes in den Gegner."
+  #title: 'sunt aut'
+cenario2:
+  userId: "1"
+  body: "bar"
+  tle: 'foo'    
